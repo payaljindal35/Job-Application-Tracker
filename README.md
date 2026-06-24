@@ -10,6 +10,9 @@ A full-stack MERN application for tracking job applications across recruitment s
 - **Delete applications** — remove entries you no longer need to track
 - **Dashboard counters** — live counts of applications per status, plus a running total
 
+<img width="1920" height="879" alt="Screenshot (791)" src="https://github.com/user-attachments/assets/5e4e990f-906e-4d1c-879d-7a5dad4039e0" />
+
+
 ## Tech Stack
 
 | Layer    | Technology                  |
